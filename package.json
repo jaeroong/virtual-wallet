@@ -1,0 +1,16 @@
+{
+  "name": "virtual-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jaeroong/virtual-wallet.git",
+  "author": "David Kim <davidkim024@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
